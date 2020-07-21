@@ -1,7 +1,8 @@
 # emberjs-chat-example
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is an example app after working through the **Components** section of the [Ember.js Guides](https://guides.emberjs.com/release/).  
+ * More specifically: This app is an example app that utilizies lessons from "Templates are HTML" through "Looping Through Lists."
+ 
 
 ## Prerequisites
 
