@@ -83,3 +83,8 @@ form > button {
   border: 1px solid #cccccc;
   font-size: 1em;
 }
+
+.random-counter-test{
+  border: 3px solid #cccccc;
+  padding: 10px;
+}
